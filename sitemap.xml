@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>http://localhost:3000/ru</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz" />
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/menu</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/menu" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/menu" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/menu" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/menu</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/menu" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/menu" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/menu" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/menu</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/menu" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/menu" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/menu" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/hookah</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/hookah" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/hookah" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/hookah" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/hookah</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/hookah" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/hookah" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/hookah" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/hookah</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/hookah" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/hookah" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/hookah" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/events</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/events" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/events" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/events" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/events</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/events" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/events" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/events" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/events</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/events" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/events" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/events" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/gift</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/gift" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/gift" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/gift" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/gift</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/gift" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/gift" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/gift" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/gift</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/gift" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/gift" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/gift" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/contacts</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/contacts" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/contacts" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/contacts" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/contacts</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/contacts" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/contacts" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/contacts" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/contacts</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/contacts" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/contacts" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/contacts" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/book</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/book" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/book" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/book" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/book</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/book" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/book" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/book" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/book</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/book" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/book" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/book" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/ru/privacy</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/privacy" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/privacy" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/en/privacy</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/privacy" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/privacy" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://localhost:3000/uz/privacy</loc>
+<xhtml:link rel="alternate" hreflang="ru" href="http://localhost:3000/ru/privacy" />
+<xhtml:link rel="alternate" hreflang="en" href="http://localhost:3000/en/privacy" />
+<xhtml:link rel="alternate" hreflang="uz" href="http://localhost:3000/uz/privacy" />
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+</urlset>
