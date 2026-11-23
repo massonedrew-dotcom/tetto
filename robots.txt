@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /styleguide
 
-Sitemap: http://localhost:3000/sitemap.xml
+Sitemap: https://massonedrew-dotcom.github.io/sitemap.xml
